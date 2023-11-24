@@ -1,6 +1,6 @@
 Changing a MAC address, commonly known as "MAC spoofing" or "MAC address spoofing," involves modifying the unique identifier of a network interface card (NIC). Here's a detailed guide on how to change a MAC address:
 
-### Reasons for Changing MAC Address:
+## Reasons for Changing MAC Address:
 
 1. **Privacy:**
    - Changing your MAC address can enhance privacy by making it more challenging for network administrators or malicious actors to track your device.
