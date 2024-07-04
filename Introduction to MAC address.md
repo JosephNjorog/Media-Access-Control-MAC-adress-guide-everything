@@ -1,7 +1,7 @@
 A Media Access Control (MAC) address is a unique identifier assigned to network interfaces for communications on a network. Here are key aspects about MAC addresses:
 
 1. **Format:**
-   - A MAC address is a 48-bit (6-byte) identifier typically represented as a series of six pairs of hexadecimal digits (e.g., `01:23:45:67:89:ab`).
+   - A MAC address is a 48-bit  (6-byte) identifier typically represented as a series of six pairs of hexadecimal digits (e.g., `01:23:45:67:89:ab`).
 
 2. **Uniqueness:**
    - MAC addresses are theoretically unique worldwide. Manufacturers assign unique MAC addresses to network interface cards (NICs) during production.
