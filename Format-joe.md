@@ -11,6 +11,7 @@ The MAC address format consists of 48 bits, typically represented as 12 hexadeci
 
 4. **Example:**
    - An example MAC address is `00:1A:2B:3C:4D:5E`. Breaking it down into bytes:
+     
      - Byte 1: `00` (hexadecimal)
      - Byte 2: `1A` (hexadecimal)
      - Byte 3: `2B` (hexadecimal)
