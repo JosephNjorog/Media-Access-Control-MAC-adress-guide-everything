@@ -8,6 +8,7 @@
      - The least significant bit (LSB) of the first byte (bit 1 of the first hexadecimal digit) is set to `0`.
    - **Example:**
      - `00:1A:2B:3C:4D:5E`
+     - 
 
 2. **Locally Administered Address:**
    - **Definition:**
