@@ -1,5 +1,6 @@
 ### Usage in Networking:
 
+
 1. **Device Identification:**
    - MAC addresses are fundamental for identifying devices on a network. Each network interface card (NIC) is assigned a unique MAC address, allowing devices to be distinguished from one another.
 
