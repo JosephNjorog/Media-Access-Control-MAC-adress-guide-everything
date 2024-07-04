@@ -45,6 +45,7 @@
    - WPA3 is the latest Wi-Fi security standard, offering improved protection against attacks. It enhances encryption and strengthens authentication mechanisms.
 
 2. **Password Protection:**
+
    - Wi-Fi networks are often secured with a password. Using a strong, unique password is crucial for preventing unauthorized access.
 
 3. **Guest Networks:**
