@@ -8,6 +8,7 @@ The uniqueness of MAC addresses stems from the combination of two components: th
 - **Example:**
   - Suppose the OUI for a particular manufacturer is `00:1A:2B`. This means that all devices manufactured by this company will have MAC addresses starting with these three pairs.
 
+
 ### 2. Device-Specific Identifier:
 
 - **What is Device-Specific Identifier?**
