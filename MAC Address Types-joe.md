@@ -6,6 +6,7 @@
    - **Example:**
      - `00:1A:2B:3C:4D:5E`
 
+
 2. **Multicast MAC Address:**
    - **Definition:**
      - A multicast MAC address is used to represent a group of devices. Frames sent to a multicast address are received by all devices in the group.
