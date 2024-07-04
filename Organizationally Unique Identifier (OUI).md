@@ -4,6 +4,7 @@
 1. **Definition:**
    - The Organizationally Unique Identifier (OUI) is a 24-bit (3-byte) identifier assigned by the IEEE (Institute of Electrical and Electronics Engineers) to manufacturers, vendors, or other organizations producing network interface cards (NICs) or networking hardware.
 
+
 2. **Structure:**
    - The OUI is part of the MAC address and occupies the first 24 bits (first three pairs of hexadecimal digits) of a standard 48-bit MAC address.
 
