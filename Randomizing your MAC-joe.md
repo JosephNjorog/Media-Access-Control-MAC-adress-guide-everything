@@ -23,6 +23,7 @@ Randomizing your MAC (Media Access Control) address can add an additional layer 
      netsh interface set interface "Ethernet" admin=enable
      ```
 
+
 ### On macOS:
 
 1. **Using Terminal:**
